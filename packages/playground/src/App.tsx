@@ -4,6 +4,7 @@ import './App.css'
 
 function App() {
   // test version
+  // test lerna independent  version manage
   const [count, setCount] = useState(0)
 
   return (
